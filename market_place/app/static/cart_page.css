@@ -72,9 +72,13 @@
 
 .cart-remove-button {
     margin-left:2vh;
+    color:rgb(184, 0, 0);
 }
 
 .checkout-cart-button {
     transform:scale(1.4);
     margin-bottom:4vh;
+    background-color:black;
+    color:white;
+    border:none;
 }
